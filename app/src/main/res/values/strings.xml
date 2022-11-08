@@ -4,4 +4,6 @@
     <string name="sunset_jesus">Sunset Jesus</string>
     <string name="register">Register</string>
     <string name="login">Login</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
 </resources>
