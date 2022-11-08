@@ -29,10 +29,11 @@ public class LandingActivity extends AppCompatActivity {
         TextView txtLogin = findViewById(R.id.txt_login);
         txtLogin.setOnClickListener(v -> {
             startActivity(new Intent(LandingActivity.this, LoginActivity.class));
+            //finish();
 
         });
 
 
-        
+
     }
 }
